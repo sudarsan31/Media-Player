@@ -1,4 +1,4 @@
-# Media-Palyer
+# Media-Player
 <h2>Install package:  pip install python-vlc</h2>
 <h2>Another package: pip install easygui </h2>
 <h5>Run the above mediaplayer.py code</h5>
